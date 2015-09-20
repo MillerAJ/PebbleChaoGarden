@@ -1,0 +1,118 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "D.M.S.",
+    "longName": "PebbleChaoWatchFace",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/gba.png",
+                "name": "gba",
+                "type": "png"
+            },
+            {
+                "file": "images/fruit1.png",
+                "name": "fruit3",
+                "type": "png"
+            },
+            {
+                "file": "images/fruit3.png",
+                "name": "fruit2",
+                "type": "png"
+            },
+            {
+                "file": "images/duck.png",
+                "name": "duck",
+                "type": "png"
+            },
+            {
+                "file": "images/per.png",
+                "name": "fruit1",
+                "type": "png"
+            },
+            {
+                "file": "images/flatt.png",
+                "name": "backGround",
+                "type": "png"
+            },
+            {
+                "file": "images/bub.png",
+                "name": "speech",
+                "type": "png"
+            },
+            {
+                "file": "images/b (10).png",
+                "name": "choa_RIGHT",
+                "type": "png"
+            },
+            {
+                "file": "images/b (11).png",
+                "name": "choa_RIGHT_L",
+                "type": "png"
+            },
+            {
+                "file": "images/b (9).png",
+                "name": "choa_RIGHT_R",
+                "type": "png"
+            },
+            {
+                "file": "images/b (7).png",
+                "name": "choa_IDLE",
+                "type": "png"
+            },
+            {
+                "file": "images/b (6).png",
+                "name": "choa_IDLE_R",
+                "type": "png"
+            },
+            {
+                "file": "images/b (4).png",
+                "name": "choa_IDLE_L",
+                "type": "png"
+            },
+            {
+                "file": "images/b (13).png",
+                "name": "choa_BACK",
+                "type": "png"
+            },
+            {
+                "file": "images/b (3).png",
+                "name": "choa_BACK_R",
+                "type": "png"
+            },
+            {
+                "file": "images/b (2).png",
+                "name": "choa_BACK_L",
+                "type": "png"
+            },
+            {
+                "file": "images/b (8).png",
+                "name": "choa_LEFT_R",
+                "type": "png"
+            },
+            {
+                "file": "images/b (5).png",
+                "name": "choa_LEFT",
+                "type": "png"
+            },
+            {
+                "file": "images/b (1).png",
+                "name": "choa_LEFT_L",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "ChaoWatch",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "65df5cd9-8537-4c00-8cfb-4050ebccf1f4",
+    "versionLabel": "1.69",
+    "watchapp": {
+        "watchface": false
+    }
+}
